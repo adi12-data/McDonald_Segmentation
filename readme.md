@@ -31,7 +31,7 @@ The dataset includes anonymized survey responses with the following features:
 ## 📁 Files
 
 - `McDonald.ipynb`: Main notebook with full analysis
-- `data/`: Folder for data (if applicable)
+- `data/`: Folder for data
 - `README.md`: Project overview
 
 ## 📌 How to Run
